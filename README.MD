@@ -2,6 +2,8 @@
 
 This project generates images based on user prompts using the OpenAI API.
 
+![Screenshot](https://github.com/yourusername/openai-images/blob/main/Screenshot%202024-12-25%20205520.png)
+
 ## Prerequisites
 
 - Go 1.23.3 or later
@@ -22,7 +24,7 @@ This project generates images based on user prompts using the OpenAI API.
     go mod tidy
     ```
 
-3. Create a [.env](http://_vscodecontentref_/0) file in the root directory of the project with your OpenAI API key:
+3. Create a [.env](http://_vscodecontentref_/1) file in the root directory of the project with your OpenAI API key:
 
     ```sh
     echo "OPENAI_API=your_openai_api_key" > .env
@@ -44,7 +46,7 @@ This project generates images based on user prompts using the OpenAI API.
     Enter your prompt: >
     ```
 
-3. The generated image will be saved as `image.png` in the root directory.
+3. The generated image will be saved as [image.png](http://_vscodecontentref_/2) in the root directory.
 
 ## License
 
