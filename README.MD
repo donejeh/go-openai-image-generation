@@ -2,7 +2,7 @@
 
 This project generates images based on user prompts using the OpenAI API.
 
-![Screenshot](https://github.com/yourusername/openai-images/blob/main/Screenshot.png)
+![Screenshot](https://github.com/donejeh/go-openai-image-generation/blob/main/Screenshot.png)
 
 ## Prerequisites
 
