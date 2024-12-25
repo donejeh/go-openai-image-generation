@@ -2,7 +2,7 @@
 
 This project generates images based on user prompts using the OpenAI API.
 
-![Screenshot](https://github.com/yourusername/openai-images/blob/main/Screenshot%202024-12-25%20205520.png)
+![Screenshot](https://github.com/yourusername/openai-images/blob/main/Screenshot.png)
 
 ## Prerequisites
 
